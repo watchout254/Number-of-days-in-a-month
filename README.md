@@ -5,4 +5,8 @@ user enters the year and month in numbers and the program generates the number o
 
 ![image](https://github.com/watchout254/Number-of-days-in-a-month/assets/88248852/2d03623d-02ac-4a89-be34-e3fe523fc8b4)
 
+CURRENT MONTH: OCTOBER 
+![image](https://github.com/watchout254/Number-of-days-in-a-month/assets/88248852/cbf422ff-2873-4590-8d53-404d228507a5)
+
+
 
